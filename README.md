@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨Creating bugs since I wrote my first "Hello, World!" and forgot the semicolon.  <br>📚I'm currently learning how to make my code break less and my deployments smoother.  <br>🎯Goal is to build web applications so seamless that users wonder if they’re using magic.  <br>🎲Fun fact is, talk to my code—sometimes it listens, sometimes it just throws errors. XD</p>
+<p align="left">✨Creating bugs since I wrote my first "Hello, World!" and forgot the semicolon.  <br>📚I'm currently learning how to make my code break less and my deployments smoother.  <br>🎯Goal is to build web applications so seamless that users wonder if they’re using magic.  <br>🎲Fun fact is, I talk to my code—sometimes it listens, sometimes it just throws errors. XD</p>
 
 ###
 
