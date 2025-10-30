@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Saheen Alam Shuvo | MERN Stack Developer</h2>
+<h2 align="center">Saheen Alam Shuvo | MERN Stack Developer | Competitive Programmer</h2>
 
 ###
 
