@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">Saheen Alam Shuvo | MERN Stack Developer | Competitive Programmer</h2>
+<h2 align="center">MERN Stack Developer | Competitive Programmer | Erasmus+ Scholar</h2>
 
 ###
 
-<h6 align="center">Hey there! I'm Shuvo, a MERN Stack Developer passionate about building cutting-edge web experiences. I bring ideas to life with clean, efficient code and scalable architecture, ensuring seamless user interactions. From optimizing performance to solving real-world challenges, I thrive on creating intuitive solutions—one line of code at a time.</h6>
+<h6 align="center">Hey there! I'm Shuvo, a MERN Stack Developer, Competitive Programmer, and Erasmus+ scholar. I’m passionate about building modern, high-performance web applications and solving complex problems with clean, efficient code. From crafting scalable architectures to delivering seamless user experiences, I thrive on turning ideas into intuitive, real-world solutions, one line of code at a time.</h6>
 
 ###
 
