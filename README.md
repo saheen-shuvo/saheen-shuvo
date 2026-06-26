@@ -87,7 +87,7 @@ Hi, I'm **Saheen**. A Full Stack Developer from Dhaka, Bangladesh, focused on bu
 - 🔢 **Phitron Problem Solvers Club** — Batch 7
 - 🌐 **Complete Web Development** — Programming Hero, Batch 10
 - 🤝 **Volunteer Web Developer** — International Affairs Office, DIU (Season 5)
-- 🪂 **Air Rover Scout** — Daffodil International University Scout Group
+- 🪂 **Air Rover Scout** — Daffodil International University Air Rover Scout Group
 
 ---
 
