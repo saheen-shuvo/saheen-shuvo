@@ -82,6 +82,7 @@ Hi, I'm **Saheen**. A Full Stack Developer from Dhaka, Bangladesh, focused on bu
 ## 🏅 Achievements & Certifications
 
 - 🌍 **Erasmus+ Scholar** — EU-funded exchange, Varna University of Management, Bulgaria (2025–2026)
+- 🎖️ **Infinity AI Buildfest** — Finalist, Top 208 out of 612 Teams in Healthcare at Brac University
 - 🧠 **Competitive Programmer** — Codeforces & CodeChef ([@saheen_shuvo](https://codeforces.com/profile/saheen_shuvo))
 - 🔢 **Phitron Problem Solvers Club** — Batch 7
 - 🌐 **Complete Web Development** — Programming Hero, Batch 10
